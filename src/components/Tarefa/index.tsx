@@ -2,7 +2,7 @@ import * as S from './styles'
 
 const Tarefa = () => (
   <S.Card>
-    <S.titulo>Nome da tarefa</S.titulo>
+    <S.Titulo>Nome da tarefa</S.Titulo>
     <S.Tag>importante</S.Tag>
     <S.Tag>pendente</S.Tag>
     <S.Descricao />
